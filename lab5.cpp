@@ -1,7 +1,5 @@
-//Assignment No:	Lab 5
 //Student Name:		Rasul Iskandarov
-//Student Number:	C00246498
-//Date:				02/02/2022
+//Date:			02/02/2022
 
 #ifdef _DEBUG 
 #pragma comment(lib,"sfml-graphics-d.lib") 
